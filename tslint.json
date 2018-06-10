@@ -6,9 +6,9 @@
     "jsRules": {},
     "rules": {
         "interface-name": false,
-        "no-empty-interface": false,
         "indent": [true, "tabs"],
-        "object-literal-sort-keys": false
+		"object-literal-sort-keys": false,
+		"no-bitwise": false
     },
     "rulesDirectory": []
 }
